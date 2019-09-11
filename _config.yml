@@ -20,7 +20,7 @@ description: Some of Diego Medina's projects
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "Generalist; optimist"
+  About Me: "aboutme"
   Contact:
     - Twitter: "https://twitter.com/curlydisplay"
     #- Learn markdown: "http://www.markdowntutorial.com/"
