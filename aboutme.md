@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: generalist/optimist
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I'm Diego Medina and a DS8 student at Lambda School. Just by scanning my room, my interests may range from: 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Philosophy
+- Nutrition
+- Business
+- Type Design
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I don't have a strong focus just yet; Still trying to find what grabs and mesmerizes me. It's part of the process so I'm not worried. Finance, business and nutrition have been showing good prospects as of late.
