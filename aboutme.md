@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About Me
-subtitle: generalist/optimist
+subtitle: Generalist; optimist
 ---
 
-Hi, I'm Diego Medina and a DS8 student at Lambda School. Just by scanning my room, my interests may range from: 
+I'm Diego Medina and a DS8 student at Lambda School. Just by scanning my room, my interests may range from: 
 
 - Philosophy
 - Nutrition
